@@ -105,11 +105,11 @@ Production deployment, Docker, Linux servers, storage, and monitoring.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mistaketz&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=mistaketz&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistaketz&layout=compact&hide_border=true&theme=transparent" />
 
-<br>
+<br> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mistaketz&hide_border=true&theme=transparent" />
 
